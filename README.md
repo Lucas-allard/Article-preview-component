@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/article-preview-component-qv7-dzv12h)
 - Live Site URL: [Live site](https://lucas-allard.github.io/Article-preview-component/)
 
 ## My process
