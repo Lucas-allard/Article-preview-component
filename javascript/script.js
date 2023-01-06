@@ -6,9 +6,9 @@ const displayShareSocialLinks = (shareButton) => {
         socialsLinksContainer.innerHTML = `
             <h3>Share</h3> 
             <div class="socials__links"> 
-                <a href="#"><img src="../images/icon-facebook.svg" alt="facebook icon" class="socials__icon"></a>
-                <a href="#"><img src="../images/icon-twitter.svg" alt="twitter icon" class="socials__icon"></a>
-                <a href="#"><img src="../images/icon-pinterest.svg" alt="pinterest icon" class="socials__icon"></a>
+                <a href="#"><img src="./images/icon-facebook.svg" alt="facebook icon" class="socials__icon"></a>
+                <a href="#"><img src="./images/icon-twitter.svg" alt="twitter icon" class="socials__icon"></a>
+                <a href="#"><img src="./images/icon-pinterest.svg" alt="pinterest icon" class="socials__icon"></a>
             </div>
            `
         shareButton.classList.toggle('active');
