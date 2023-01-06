@@ -1,18 +1,18 @@
 # Frontend Mentor - Article preview component solution
 
-This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to
+the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT).
+Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
+    - [Built with](#built-with)
 - [Author](#author)
-
-
 
 ## Overview
 
@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://lucas-allard.github.io/Article-preview-component/)
 
 ## My process
 
@@ -46,7 +46,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Linkedin - [@yourusername](https://www.twitter.com/yourusername)
-- Github - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Lucas-allard](https://www.frontendmentor.io/profile/Lucas-allard)
+- [Linkedin](https://www.linkedin.com/in/allardlucas/)
+- [Github](https://github.com/Lucas-allard)
 
